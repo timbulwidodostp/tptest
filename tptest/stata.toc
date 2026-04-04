@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p tptest Universal Turning Point & Inflection Point Test Lind & Mehlum (2010) with Extensions Use tptest With STATA 19

@@ -1,0 +1,6 @@
+D 'tptest': Universal Turning Point & Inflection Point Test Lind & Mehlum (2010) with Extensions Use tptest With STATA 19
+D
+F _tptest_graph.ado
+F _tptest_qgraph.ado
+F tptest.ado
+F tptest.sthlp
