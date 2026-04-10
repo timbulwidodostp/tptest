@@ -1,6 +1,8 @@
 # tptest
 Universal Turning Point &amp; Inflection Point Test Lind &amp; Mehlum (2010) with Extensions Use tptest With STATA 19
 
+https://www.youtube.com/watch?v=SmgdE8lgwuU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
